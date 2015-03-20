@@ -1,12 +1,8 @@
 # Site settings
 title: Solve them All
 email: ramjeesaradi@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Hello, Hope you had a good day! 
-	NO!
-I wish somebody did something about this.
-Well here is your chance to see the tomorrow that is rid of your problem.
-We will be online soon to help you help us build a smarter society by solving your problem. 
+description: >Hello, Hope you had a good day! NO! I wish somebody did something about this. Well here is your chance to see the tomorrow that is rid of your problem. We will be online soon to help you help us build a smarter society by solving your problem. 
+ # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://postyourproblem.in" # the base hostname & protocol for your site
 twitter_username: ramjeesaradi
