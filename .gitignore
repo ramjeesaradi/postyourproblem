@@ -2,3 +2,5 @@ _site
 .sass-cache
 /MySite2.esproj/
 .project
+
+.DS_Store
